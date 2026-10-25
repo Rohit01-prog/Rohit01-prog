@@ -20,5 +20,3 @@ Hi there, I'm Rohit Maurya 👋<br><br>I am a Software & Applied AI Developer wh
 
 ---
 [![](https://komarev.com/ghpvc/?username=Rohit01-prog&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
